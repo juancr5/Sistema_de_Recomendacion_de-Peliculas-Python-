@@ -1,4 +1,4 @@
-# Sistema de Recomendacion de Peliculas -Python-
+# 🎞 Sistema de Recomendacion de Peliculas -Python-
 
 Sistema de recomendacion de peliculas basado en el archivo sobre puntuaciones de peliculas por categoria, hecho con Pandas Data Analysis
 
